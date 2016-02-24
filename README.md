@@ -28,11 +28,11 @@ Use jumps and branches with decimal line numbers just like labels in mars.
 
 (adr = j type, 26 bit and reference address directly, radr = 16 bit and reference address relatively)
 
-Use it in any modern browser: http://bilkentcraps.github.io/will
+Use it in any modern browser: http://bilkentcraps.github.io/mips
 
 It is simple little extensible utility running on web browsers, completely on client side. (nothing in server, everything happens in user's web browser.)
 For such static (from the server point of view) applications Github allows free hosting without any limit or expiration.
-So it is alive for everyone forever at http://bilkentcraps.github.io/will
+So it is alive for everyone forever at http://bilkentcraps.github.io/mips
 
 It consists of just 3 textareas, one for specifying instruction formats, one for user's assembly code and one for the result as a verilog code which is ready to copy to Xilinx IDE.
 As you type instruction formats or assembly codes, hex based verilog result updates in real time.
