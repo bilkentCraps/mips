@@ -138,12 +138,12 @@ It is possibly to add new instructions just by adding new lines to first textare
 - I wrote this under 3 hours so maybe code can be seen as dirty.
 
   - Everything is just one file.
-  - To use it, just go to: http://bilkentcraps.github.io/will
+  - To use it, just go to: http://bilkentcraps.github.io/mips
   - Or if you don't like it on Github, it is possible to copy paste source code into simple texteditor. (for windows, notepad)
   - And saving it as "index.html" (quotation marks are required otherwise it will be saved as index.html.txt we need it to be saved as index.html)
   - Then double click to index.html to open it in your favourite web browser. (safari, chrome, etc.)
 
-- All source code is around 200 lines in one file and can be seen at: https://github.com/bilkentCraps/will/blob/gh-pages/index.html
+- All source code is around 200 lines in one file and can be seen at: https://github.com/bilkentCraps/mips/blob/gh-pages/index.html
 
 - Also thanks to Cheol Woo and Ferit, they reminded me how much time that I spend just for writing hex instructions in the lab and as Cheol Woo suggested, I started coding from scratch without knowing he already have some code for this purpose so unfortunately I didn't use his code but all credit belongs to Cheol Woo for idea and motivating me :)
 
